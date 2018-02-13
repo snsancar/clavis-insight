@@ -4,9 +4,9 @@ Fastest way to find a number in a list of numbers using custom compare method pr
 
 ###Technologies Used
 
-Java 8
-Jackson
-Junit
+- Java 8
+- Jackson
+- Junit
 
 ###Solution
 
