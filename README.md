@@ -22,3 +22,9 @@ The reason for using HashSet
 - The requirement clearly says not to change anything in the FasterComparator class.
 
 
+###How to run the test
+
+- Run the TestNumberFinder.java from src/test/java/demo
+- It has two methods, one is to read the JSON file and another one is to check the number is exist in the list of numbers or not.
+
+
